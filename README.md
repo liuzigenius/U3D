@@ -2,5 +2,5 @@
 my u3d projects
 
 
-1.Thid Person Camera Controller
+1.ThirdPersonCamera.cs：
 第三视角，摄像机控制器
